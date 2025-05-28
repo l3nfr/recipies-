@@ -38,3 +38,16 @@ div {
     text-align: center;
     color: brown;
 }
+
+.button {
+    background-color: khaki;
+    border: 10px;
+    padding: 2px;
+    height: 40px;
+}
+
+.inbutton {
+    color: black;
+    text-decoration: none;
+    padding: 8px;
+}
